@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406328238 source:e:\new acm prob\144a_cf\main.cpp
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+	<iostream>
+	<vector>
+
