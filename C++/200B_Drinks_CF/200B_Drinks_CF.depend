@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1406749236 source:e:\new acm prob\200b_drinks_cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

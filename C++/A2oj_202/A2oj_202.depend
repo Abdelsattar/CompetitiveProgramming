@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1408803961 source:e:\new acm prob\a2oj_202\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

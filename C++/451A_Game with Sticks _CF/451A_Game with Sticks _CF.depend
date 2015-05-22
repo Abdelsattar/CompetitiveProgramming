@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1406946056 source:e:\new acm prob\451a_game with sticks _cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

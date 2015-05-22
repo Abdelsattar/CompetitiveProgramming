@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404135419 source:e:\new acm prob\hidden message_1272_uri\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

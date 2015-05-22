@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1406661882 source:e:\new acm prob\349a_cinma line _cf\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+

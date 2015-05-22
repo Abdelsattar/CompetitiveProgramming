@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1407101085 source:e:\new acm prob\276a_lunch rush _cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

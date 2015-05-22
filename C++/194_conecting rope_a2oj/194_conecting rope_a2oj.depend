@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1407595498 source:e:\new acm prob\194_conecting rope_a2oj\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+	<algorithm>
+

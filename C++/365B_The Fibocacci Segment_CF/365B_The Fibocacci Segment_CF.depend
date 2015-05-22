@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1407111697 source:e:\new acm prob\365b_the fibocacci segment_cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

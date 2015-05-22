@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1406859585 source:e:\new acm prob\test round_a _cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

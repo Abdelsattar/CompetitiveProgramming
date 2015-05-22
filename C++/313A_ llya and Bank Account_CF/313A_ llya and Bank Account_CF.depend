@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1407011195 source:e:\new acm prob\313a_ llya and bank account_cf\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

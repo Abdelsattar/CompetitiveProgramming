@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404175977 source:e:\new acm prob\435a_cf\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

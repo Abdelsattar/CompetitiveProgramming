@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405168067 source:e:\new acm prob\fibo_150_a2oj\main.cpp
+	<iostream>
+	<sstream>
+

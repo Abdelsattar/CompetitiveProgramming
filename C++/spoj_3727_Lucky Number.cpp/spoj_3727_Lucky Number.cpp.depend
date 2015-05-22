@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1411839336 source:e:\new acm prob\spoj_3727_lucky number.cpp\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<sstream>
+

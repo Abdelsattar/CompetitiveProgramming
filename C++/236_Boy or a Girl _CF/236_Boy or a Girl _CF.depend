@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1406418656 source:e:\new acm prob\236_boy or a girl _cf\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cmath>
+	<set>
+	<map>
+	<iterator>
+
